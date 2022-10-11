@@ -1,10 +1,10 @@
 import styled from 'styled-components';
-import { FaMagento } from 'react-icons/fa';
+import { GiSoccerKick } from 'react-icons/gi';
 import { Link } from 'react-router-dom';
 import { Container } from '../../globalStyles';
 
 export const Nav = styled.nav`
-  background: #101522;
+  background: #371d80;
   height: 80px;
   display: flex;
   justify-content: center;
@@ -33,7 +33,7 @@ export const NavLogo = styled(Link)`
   align-items: center;
 `;
 
-export const NavIcon = styled(FaMagento)`
+export const NavIcon = styled(GiSoccerKick)`
   margin-right: 0.5rem;
 `;
 
