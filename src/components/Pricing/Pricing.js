@@ -33,11 +33,11 @@ function Pricing() {
                   <GiRock />
                 </PricingCardIcon>
                 <PricingCardPlan>Starter Pack</PricingCardPlan>
-                <PricingCardCost>$99.99</PricingCardCost>
+                <PricingCardCost></PricingCardCost>
                 <PricingCardLength>per month</PricingCardLength>
                 <PricingCardFeatures>
-                  <PricingCardFeature>100 New Users</PricingCardFeature>
-                  <PricingCardFeature>$10,000 Budget</PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
+                  <PricingCardFeature></PricingCardFeature>
                   <PricingCardFeature>Retargeting analytics</PricingCardFeature>
                 </PricingCardFeatures>
                 <Button primary>Choose Plan</Button>
