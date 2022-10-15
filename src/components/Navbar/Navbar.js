@@ -15,7 +15,7 @@ import {
   NavBtnLink
 } from './Navbar.elements';
 
-function Navbar() {
+const Navbar = () => {
   const [click, setClick] = useState(false);
   const [button, setButton] = useState(true);
 
